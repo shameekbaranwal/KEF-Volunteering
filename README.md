@@ -10,10 +10,10 @@
   <p align="center">
     A full-stack mobile application made for the Kotak Education Foundation as part of my virtual internship in the Summer of 2021. 
     <br />
-    <a href="https://bp-gc.in/kotal-refs"><strong>View the Project Report »</strong></a>
+    <a href="https://drive.google.com/file/d/1R_HgGJGehIbOtvHcfdgtbMYTitb6dw11/view?usp=sharing"><strong>View the Project Report »</strong></a>
     <br />
     <br />
-    <a href="https://bp-gc.in/kotal-refs">View Demo APK</a>
+    <a href="https://drive.google.com/file/d/1fhqfnFTph3maDRnhcM7YmYoQp1nGF_UG/view?usp=sharing">View Demo APK</a>
   </p>
 </p>
 
@@ -123,10 +123,10 @@ Upon logging in, you'll reach the dashboard, where you have the option to view t
 Within the activity schedule, you have the option to browse the activities in the Calendar View, or search for the relevant activity in the Search View.
 
 <br/>
-<img src="https://user-images.githubusercontent.com/39854726/132133518-58d3bd6a-3d8c-492b-a94d-a023233034f3.jpg" alt="Calendar View" width="200" >
-<img src="https://user-images.githubusercontent.com/39854726/132133519-154e6239-4416-4afd-92af-0f11577446b9.jpg" alt="Search View" width="200" >
-
-<br/>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/39854726/132133518-58d3bd6a-3d8c-492b-a94d-a023233034f3.jpg" alt="Calendar View" width="200" >
+  <img src="https://user-images.githubusercontent.com/39854726/132133519-154e6239-4416-4afd-92af-0f11577446b9.jpg" alt="Search View" width="200" >
+</p>
 <br/>
 
 ## Project Report

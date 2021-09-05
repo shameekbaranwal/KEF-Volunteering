@@ -51,7 +51,7 @@ A major hurdle with the management of such a vast range of activities and people
 <br/> <br/>
 As interns, our methodology for solving this critical problem was simple - we created a mobile application that serves as a one-stop for both Volunteers and Beneficiaries, as well as any third party Intervention managers. This application consists of the several forms that were previously spread out across various links, and allows a user to find what they want easily. The app also allows new members to Sign Up and Join the KEF as either a Volunteer or a Beneficiary.
 <br/><br>
-This repository contains the code for the front-end of the application, written in React Native. The code for the back-end is available [here](https://github.com/shameekbaranwal/KEF-API).
+<strong>This repository contains the code for the front-end of the application, written in React Native. The code for the back-end is available [here](https://github.com/shameekbaranwal/KEF-API).</strong>
 
 ### Built With
 
@@ -61,9 +61,9 @@ This repository contains the code for the front-end of the application, written 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started with the Demo
 
-To get a local copy up and running in a development environment, follow these steps.
+You can either access the app in the production environment by downloading the APK file from [here]('https://bp-gc.in/kotak-refs) and installing it on your device, or you can access it in a development environment using Expo CLI by following these steps.
 
 ### Prerequisites
 
@@ -76,8 +76,8 @@ First, you need to make sure you have a stable version of expo and expo-cli inst
 
 ### Installation
 
-1. Visit the [repository for the back-end](https://github.com/shameekbaranwal/KEF-API), and follow the instructions to get it running locally on http://localhost:5000.
-
+1. Make sure the API hosted on [Heroku](https://vast-river-10450.herokuapp.com/api) is functional by making a POST request at the `/api/login` endpoint. Source code for the API is available [here](https://github.com/shameekbaranwal/KEF-API).
+   
 2. Clone this repo
    ```sh
    git clone https://github.com/shameekbaranwal/KEF-Volunteering.git
@@ -87,17 +87,13 @@ First, you need to make sure you have a stable version of expo and expo-cli inst
    ```sh
    npm i
    ```
-
-4. Go to `api/client.js`, and replace the baseURL value with ```http://localhost:5000```.
    
-5. Start the API using instructions given [here](https://github.com/shameekbaranwal/KEF-API).
-   
-6. Start the application in development mode using
+4. Start the application in development mode using
    ```sh
    expo start
    ```
 
-7. Run the application on your android device or android emulator by following the instructions in [Expo's documentation](https://docs.expo.dev/get-started/installation/#2-expo-go-app-for-ios-and).
+5. Run the application on your android device or android emulator by following the instructions in [Expo's documentation](https://docs.expo.dev/get-started/installation/#2-expo-go-app-for-ios-and).
 
 
 

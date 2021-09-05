@@ -1,0 +1,44 @@
+{
+	"expo": {
+		"name": "KEF Volunteering",
+		"slug": "KEF",
+		"version": "1.0.1",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/Kotak_logo_high_resolution.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"versionCode": 2,
+			"package": "com.kotakeducationfoundation.kefvolunteering",
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/adaptive-icon.png",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		"notification": {
+			"icon": "./assets/icon96.png",
+			"color": "#FFFFFF",
+			"androidMode": "collapse",
+			"androidCollapsedTitle": "Reminders"
+		},
+		"androidStatusBar": {
+			"translucent": true
+		},
+		"web": {
+			"favicon": "./assets/favicon.png"
+		},
+		"primaryColor": "#090235",
+		"description": "This application is a project by students from BITS Pilani developed for the Kotak Education Foundation's Volunteering Department to streamline the functioning of the organization's core activities. The purpose of this app is to connect the Volunteers and Beneficiaries of the foundation to the Volunteering Department, and to effectively improve the workflow and overcome all redundancies."
+	},
+	"title": "KEF Volunteering Department Application"
+}

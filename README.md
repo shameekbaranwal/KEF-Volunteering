@@ -13,7 +13,9 @@
     <a href="https://drive.google.com/file/d/1R_HgGJGehIbOtvHcfdgtbMYTitb6dw11/view?usp=sharing"><strong>View the Project Report »</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1fhqfnFTph3maDRnhcM7YmYoQp1nGF_UG/view?usp=sharing">View Demo APK</a>
+    <a href="https://drive.google.com/file/d/1fhqfnFTph3maDRnhcM7YmYoQp1nGF_UG/view?usp=sharing">Download Demo APK</a>
+    </br>
+    	This repository contains the client-side code of the application, written in React Native. The code for the back-end is available <a href="https://github.com/shameekbaranwal/KEF-API">here</a>.
   </p>
 </p>
 
@@ -102,7 +104,7 @@ First, you need to make sure you have a stable version of expo and expo-cli inst
 
 On opening the page, you'll be greeted with the following screen <br/>
 
-<img src="https://user-images.githubusercontent.com/39854726/132132472-dbf0bb74-509c-4cad-b7b0-50bb757ada66.jpg" alt="Welcome" width="200" > <br/>
+<p align="center"><img src="https://user-images.githubusercontent.com/39854726/132132472-dbf0bb74-509c-4cad-b7b0-50bb757ada66.jpg" alt="Welcome" width="200" ></p> <br/>
 
 Since this is a Demo version of the application not connected to the actual database, you can test the features of the application by logging in using the following credentials in the login screen displayed ahead.
 ```
@@ -110,16 +112,16 @@ Email: a@a.com
 Phone: 1234567890
 ```
 
-<br/><img src="https://user-images.githubusercontent.com/39854726/132132506-a9cdcb52-be0f-4fa9-951b-bb2c0968769f.jpg" alt="Login" width="200" > <br/>
+<p align="center"><br/><img src="https://user-images.githubusercontent.com/39854726/132132506-a9cdcb52-be0f-4fa9-951b-bb2c0968769f.jpg" alt="Login" width="200" > <br/></p>
 
 Upon logging in, you'll reach the dashboard, where you have the option to view the live Activity Schedule, or fill the log sheets or feedback forms after attending a particular activity.
 
-<br/> <img src="https://user-images.githubusercontent.com/39854726/132133520-04d6c71b-c97a-4a93-9e34-d98ea5f17487.jpg" alt="Home" width="200" > <br/>
+<p align="center"><br/><img src="https://user-images.githubusercontent.com/39854726/132133520-04d6c71b-c97a-4a93-9e34-d98ea5f17487.jpg" alt="Home" width="200" > <br/></p>
 
 Within the activity schedule, you have the option to browse the activities in the Calendar View, or search for the relevant activity in the Search View.
 
 <br/>
-<p float="left">
+<p float="left" align="center">
   <img src="https://user-images.githubusercontent.com/39854726/132133518-58d3bd6a-3d8c-492b-a94d-a023233034f3.jpg" alt="Calendar View" width="200" >
   <img src="https://user-images.githubusercontent.com/39854726/132133519-154e6239-4416-4afd-92af-0f11577446b9.jpg" alt="Search View" width="200" >
 </p>
